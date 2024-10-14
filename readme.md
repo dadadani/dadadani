@@ -1,9 +1,8 @@
 # dadadani
+AAAAAAAAAAAAAAAAAAA
 
-page kept empty for laziness
+Segmentation fault (core dumped)
 
-
-~~nim enjoyer~~
 
 ### Poor stats:
 ![stats](https://github-readme-stats.vercel.app/api?username=dadadani&show_icons=true&theme=radical)
